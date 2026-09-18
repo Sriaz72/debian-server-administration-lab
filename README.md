@@ -1,51 +1,53 @@
 # Debian Server Administration Lab
 
+Hands-on Linux server administration project using Debian GNU/Linux 13.
+
 ## Overview
 
-This project documents a hands-on Debian Linux server administration lab.
-
-The goal of this project is to practice common Linux system administration tasks, document the commands used, and provide screenshots as evidence of completed work.
+This project demonstrates practical Linux server administration
+skills through a series of hands-on labs.
 
 ## Skills Demonstrated
 
 - Linux system administration
 - User and group management
-- File permissions
-- Package management
+- File permissions and ownership
+- APT package management
 - systemd service management
-- Networking
+- Nginx administration
+- SSH administration
+- Network troubleshooting
 - Storage management
-- Log analysis and troubleshooting
+- Log analysis
 - Basic server security
-- Git and GitHub
+- Bash
+- Git/GitHub
 
-## Lab Sections
-
-1. System Information
-2. Users and Groups
-3. File Permissions
-4. Package Management
-5. Services and systemd
-6. Networking
-7. Storage
-8. Logs and Troubleshooting
-9. Basic Security
-
-## Tools
+## Environment
 
 - Debian GNU/Linux 13
+- VMware
 - Bash
-- Git
-- GitHub
 - systemd
 - APT
 - Nginx
-- VMware
+- Git/GitHub
+
+## Labs
+
+| Lab | Topic |
+|---|---|
+| 01 | System Information |
+| 02 | Users and Groups |
+| 03 | File Permissions |
+| 04 | Package Management |
+| 05 | Services and systemd |
+| 06 | Networking |
+| 07 | Storage |
+| 08 | Logs and Troubleshooting |
+| 09 | Basic Security |
 
 ## Evidence
 
-Each lab section contains documentation and screenshots showing the commands performed and their results.
-
-## Project Status
-
-This project is being completed step by step as a hands-on Linux administration exercise.
+Each lab includes documentation and screenshots showing
+the commands performed and their results.
